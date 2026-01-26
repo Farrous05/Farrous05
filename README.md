@@ -23,7 +23,7 @@ I am a Third Year Mathematics and Computer Science student at **University Paris
 **Co-Founder & Lead Developer**
 * **Silver Rent:** Built a premium car rental platform using **Next.js** and **Supabase**. Implemented custom booking logic, real-time availability tracking, and a secure SQL database.
 * **Hasroun Municipality:** Engineered the official government portal, focusing on performance, SEO, and accessibility.
-* **Management:** Oversaw the full software development lifecycle (SDLC), from UI/UX design in Figma to deployment and client maintenance.
+* **Management:** Oversaw the full software development lifecycle (SDLC), from UI/UX design to deployment and client maintenance.
 
 #### 🤖 [Agentic AI Systems @ TO-AI](https://to-ai.ai)
 **Agentic Engineer**
