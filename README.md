@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Fares Shretah
 
-**Junior AI Engineer | Software Engineering Intern | Co-Founder @ Velora-Dev | French Nationality**
+**Junior AI Engineer | Software Engineering Intern | Co-Founder @ Velora-Dev**
 
 I am a Third Year Mathematics and Computer Science student at **University Paris-Saclay**. I specialize in **Agentic AI systems** (LangChain, AWS) and building scalable full-stack applications.
 
