@@ -2,7 +2,7 @@
 
 **Junior AI Engineer | Software Engineering Intern | Co-Founder @ Velora-Dev**
 
-I am a Third Year Mathematics and Computer Science student at **University Paris-Saclay**. I specialize in **Agentic AI systems** (LangChain, Langgraph) and building scalable full-stack applications.
+I am a Third Year Computer Science student at **University Paris-Saclay**. I specialize in **Agentic AI systems** (LangChain, Langgraph) and building scalable full-stack applications.
 
 ---
 
