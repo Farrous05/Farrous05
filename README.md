@@ -1,56 +1,48 @@
-# 🚀 Hi, I'm Fares Shretah
+# Hi, I'm Fares Shretah
 
-**Junior AI Engineer | Software Engineering Intern | Co-Founder @ Velora-Dev**
+**MSc Machine Learning @ UCL | LLM & Agentic AI Engineer**
 
-I am a Third Year Computer Science student at **University Paris-Saclay**. I specialize in **Agentic AI systems** (LangChain, Langgraph) and building scalable full-stack applications.
+I build and evaluate LLM systems: fine-tuning open models, agentic workflows with LangChain and LangGraph, and research on LLM failure modes. Previously a research intern at the Max Planck Institute for Human Development.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-| Category | Tools & Languages |
+| Category | Tools |
 | :--- | :--- |
-| **AI / ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
-| **Backend** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=ocaml&logoColor=white) |
+| **ML / LLMs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
+| **Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
 
 ---
 
-### 🌟 Featured Experience & Projects
+### Experience
 
-#### 🛠️ [Velora-Dev (Freelance Agency)](https://www.silver-rent.be)
-**Co-Founder & Lead Developer**
-* **Silver Rent:** Built a premium car rental platform using **Next.js** and **Supabase**. Implemented custom booking logic, real-time availability tracking, and a secure SQL database.
-* **Hasroun Municipality:** Engineered the official government portal, focusing on performance, SEO, and accessibility.
-* **Management:** Oversaw the full software development lifecycle (SDLC), from UI/UX design to deployment and client maintenance.
+**Research Intern, Max Planck Institute for Human Development** (Jun-Aug 2026)
+* Led my own project on *conversational mode collapse*: LLMs in a closed loop degrade into repetitive text. I tested whether a model can detect this state and recover.
+* Built a 10,000-example dataset and fine-tuned Qwen 2.5 3B (Hugging Face Transformers) on an HPC cluster with SLURM.
+* Extended an existing NLP codebase with an LLM-as-a-judge evaluation and ran models with vLLM.
+<!-- TODO: add the result here, e.g. "Recovery rate improved from X% to Y%" -->
 
-#### 🤖 [Agentic AI Systems @ TO-AI](https://to-ai.ai)
-**Agentic Engineer**
-* Designed and deployed AI agents using **LangChain** and **LangGraph** with dynamic routing and prompt orchestration.
-* Built real-time webhook architectures and chat systems using **AWS SQS** and **RabbitMQ**.
-* Led the end-to-end development of the company's production website.
+**Agentic Engineer, To Ai** (May 2025 - Jan 2026; AI Engineer intern before that)
+* Built LLM agents for booking, sales and customer support with LangChain and LangGraph, including dynamic routing and prompt orchestration.
+* Wrote the prompts and example data that guided agent behavior.
+* Built webhook and chat systems on AWS SQS and RabbitMQ.
 
-#### 🎓 [Paris-Saclay POGL Project](https://gitlab.dsi.universite-paris-saclay.fr/fares.shretah/pogl)
-* **Core Focus:** Advanced Object-Oriented Programming and Software Engineering (POGL).
-* Implemented complex design patterns and clean code principles as part of the University Paris-Saclay curriculum.
-
-#### 🎾 [ATP Tennis Match Prediction](https://github.com/Farrous05/atp-tennis-ml)
-* Developed a machine learning pipeline to predict match outcomes using **Scikit-learn**, **Pandas**, and **NumPy**.
-
-#### 🎮 [Maze Game (Java)](https://github.com/Farrous05/Processing_game)
-* Developed a real-time game featuring **AI-driven enemy movement** and collision logic.
+**Co-Founder, Velora-Dev** (2025 - present)
+* Freelance web and AI studio building full-stack apps for clients.
+* [Silver Rent](https://www.silver-rent.be): car rental platform (Next.js, Supabase) with custom booking logic and real-time availability.
+* Hasroun Municipality: official government portal.
 
 ---
 
-### 📊 GitHub Stats
+### Projects
 
-![Fares's Stats](https://stats-lake-one.vercel.app/api?username=Farrous05&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Top Languages](https://stats-lake-one.vercel.app/api/top-langs/?username=Farrous05&layout=compact&theme=radical&count_private=true)
+* [**image-caption-transformer**](https://github.com/Farrous05/image-caption-transformer): image captioning with a ResNet-50 encoder and Transformer cross-attention, with attention heatmaps and BLEU-based evaluation (PyTorch).
+* [**ATP Tennis ML**](https://github.com/Farrous05/atp-tennis-ml): pipeline predicting professional tennis match outcomes (Scikit-learn, Pandas, NumPy).
 
 ---
 
-### 📬 Connect with Me
-* **LinkedIn:** [linkedin.com/in/fares-shretah](https://www.linkedin.com/in/fares-shretah/)
-* **Email:** [faresshretah@gmail.com](mailto:faresshretah@gmail.com)
+### Contact
+* [LinkedIn](https://www.linkedin.com/in/fares-shretah/)
+* [faresshretah@gmail.com](mailto:faresshretah@gmail.com)
